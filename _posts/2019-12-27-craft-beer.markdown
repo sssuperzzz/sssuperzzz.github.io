@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: post
 title: Shen Shun
 date: 2019-12-27
 description:
