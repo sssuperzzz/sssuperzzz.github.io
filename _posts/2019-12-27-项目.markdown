@@ -3,8 +3,8 @@ layout: post
 title: 项目演示说明文档
 date: 2019-12-27
 description:
-image: http://a3.qpic.cn/psb?/V11rQINN4LkhQw/dmX*jmd8OjexjhZLiGotGEiLJofFPrjlypjlZUFBdCo!/m/dL4AAAAAAAAAnull&bo=IAMgAyADIAMRCT4!&rf=photolist&t=5
-image-sm: http://b309.photo.store.qq.com/psb?/V11rQINN3diUMO/T.r304lWUcSWDmXu.0ENve.mWX6cBjqt2u96iDgiVe0!/m/dDUBAAAAAAAAnull&bo=gAc4BAAAAAARB4s!&rf=photolist&t=5
+image: C:\Users\ss\Desktop\picture\-7486caad2c55933c.png
+
 ---
 
 <h1>安装Git软件（必须）</h1>
