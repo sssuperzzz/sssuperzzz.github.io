@@ -22,6 +22,4 @@ image-sm: http://b309.photo.store.qq.com/psb?/V11rQINN3diUMO/T.r304lWUcSWDmXu.0E
 
 
 
-<figure>
-  <img src="http://b338.photo.store.qq.com/psb?/V11rQINN3diUMO/qnbUmXvtlBuuvcDmQgeI2WfsNBhvyXZjK6qFIJVoigg!/b/dFIBAAAAAAAA&bo=OASABwAAAAARJ6s!&rf=viewer_4"/>
 
