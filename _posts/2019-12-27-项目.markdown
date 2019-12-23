@@ -1,0 +1,88 @@
+---
+layout: post
+title: 项目演示说明文档
+date: 2019-12-27
+description:
+image: http://a3.qpic.cn/psb?/V11rQINN4LkhQw/dmX*jmd8OjexjhZLiGotGEiLJofFPrjlypjlZUFBdCo!/m/dL4AAAAAAAAAnull&bo=IAMgAyADIAMRCT4!&rf=photolist&t=5
+image-sm: http://b309.photo.store.qq.com/psb?/V11rQINN3diUMO/T.r304lWUcSWDmXu.0ENve.mWX6cBjqt2u96iDgiVe0!/m/dDUBAAAAAAAAnull&bo=gAc4BAAAAAARB4s!&rf=photolist&t=5
+---
+
+<h1>安装Git软件（必须）</h1>
+
+<h2>注册Github软件（必须））</h2>
+
+**1.点击 sign up**
+**2.依次输入相关信息，例如用户名，邮箱，密码等。**
+
+###### **作用：是用来做博客的远程创库、域名、服务器之类，可与网页版Github连接。**
+
+<h3>Fork主题</h3>
+
+**1.可以在http://jekyllthemes.org/中选择自己喜欢的主题**
+
+<figure>
+  <img src="C:\Users\ss\Desktop\picture\-7486caad2c55933c.png"/>
+
+**2.点击Homepage（可以点击Demo查看内容)**
+
+<figure>
+
+<img src="C:\Users\ss\Desktop\picture\IMG_20191223_114621.jpg"/>
+
+**3.点击settings**
+
+<figure>
+
+<img src="C:\Users\ss\Desktop\picture\IMG_20191223_114644.jpg"/>
+
+**4.在Repository name重命名（注：最好命名为你自己的GitHub名字），点击Rename**
+
+<figure>
+
+<img src="C:\Users\ss\Desktop\picture\IMG_20191223_114744.jpg"/>
+
+**5.点击Fork**
+
+**6.回到自己的GitHub，点击File，点击Clone...。**
+
+<figure>
+
+<img src="C:\Users\ss\Desktop\picture\IMG_20191223_114656.jpg"/>
+
+
+
+<h4>修改信息</h>
+
+**1.可以用HBuilderX打开，打开后可以将原有信息改为自己的信息**
+
+**2.可在posts里的markdown里进行修改（可以制作自己的博客，加入自己的简历等）**
+
+<figure>
+
+<img src="C:\Users\ss\Desktop\picture\IMG_20191223_114712.jpg"/>
+
+**3.保存所修改内容**
+
+**4.回到GitHub，点击左下角的Commit to master**
+
+###### 
+
+<h5>生成网页</h5>
+
+**1.在GitHub网页中点击settings**
+
+<figure>
+
+<img src="C:\Users\ss\Desktop\picture\IMG_20191223_114727.jpg"/>
+
+**2.下滑到GitHub pages，点击生成的网址，可查看生成的网页**
+
+<figure>
+
+<img src="C:\Users\ss\Desktop\picture\IMG_20191223_114757.jpg"/>
+
+
+
+
+
+
